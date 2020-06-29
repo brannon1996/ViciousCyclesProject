@@ -1,0 +1,61 @@
+body {
+    width: 70%;
+    margin: 1.5 auto;
+    font-family: Futura;
+    background-color: black;
+    color: orange;
+}
+
+img[src*="bikes-cycles.png"] {
+    width: 400px;
+    height: 350px;
+    box-shadow: 5px 5px black;
+    margin-bottom: 20px;
+
+}
+
+.topnav {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.topnav a {
+    float: left;
+    text-align: center;
+    display: block;
+    padding: 14px 16px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+
+ul {
+    float: center;
+    text-align: center;
+    margin: 0px;
+    margin-left: 193px;
+}
+
+img[src*="facebook logo.png"] {
+    width: 75px;
+    height: 75px;
+    margin-left: 300px;
+}
+
+img[src*="twitter logo.png"] {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+
+}
+
+footer img {
+    float: center;
+    display: flex;
+    padding: 14px 16px;
+    margin-right: 300px;
+}
+
+
+}
